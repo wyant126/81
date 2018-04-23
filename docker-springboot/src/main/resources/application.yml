@@ -1,0 +1,9 @@
+# base server info
+server:
+  port: 8080
+  context-path: /docker-springboot
+
+
+
+
+
